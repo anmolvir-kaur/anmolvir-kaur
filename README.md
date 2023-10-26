@@ -16,6 +16,7 @@ I'm Anmolvir, a passionate Data Analyst 👩🏾‍💻 on a mmission to unravel
 ## 🚀 Projects
 
 ## 🤝 Connect with Me
+- <a href=”https://www.linkedin.com/in/anmolvirkaur/"><img align=”left” src=”https://raw.githubusercontent.com/anmolvir-kaur/anmolvir-kaur/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a> 
 
 
 
