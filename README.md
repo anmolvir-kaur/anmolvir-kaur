@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋🏾
+I'm Anmolvir, a passionate Data Analyst 👩🏾‍💻 on a mmission to unravel the mysteries concealed within data. Let's emark on an exciting journey together, exploring the boundless possibilities that data brings! 🚀💡
 
-<!--
-**anmolvir-kaur/anmolvir-kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏾‍♀️ About Me
+- 🔍 Passionate about deciphering complex data and sharing its story with the world 🌎.
+- 👩🏾‍💻 Actively delving into SQL and Data Visualization, eagerly seeking roles in Data Analytics.
+- 📉 Proficient in Data Cleaning and Wrangling, Data Visualization, Analysis, and Dashboard Design and Development.
+- 💡 Skilled in adapting to dynamic work environments and collaborating effectively within cross-functional teams to drive impactful data-driven solutions.
 
-Here are some ideas to get you started:
+## 💻 Language & Skills
+- **SQL** (SQL Server, MySQL, PostgreSQL,Google BigQuery)
+- **R Programming**
+- **Tableau**
+- **Excel** (VLookup, Conditional Formatting, Pivot Tables)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+## 🤝 Connect with Me
+
+
+
