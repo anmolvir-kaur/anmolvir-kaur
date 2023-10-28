@@ -8,7 +8,7 @@ I'm Anmolvir, a passionate Data Analyst 👩🏾‍💻 on a mission to unravel 
 - 💡 Skilled in adapting to dynamic work environments and collaborating effectively within cross-functional teams to drive impactful data-driven solutions.
 
 ## 💻 Language & Skills
-- **SQL** (SQL Server, MySQL, PostgreSQL,Google BigQuery)
+- **SQL** (SQL Server, MySQL, PostgreSQL, Google BigQuery)
 - **R Programming**
 - **Tableau**
 - **Excel** (VLookup, Conditional Formatting, Pivot Tables)
