@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-I'm Anmolvir, a passionate Data Analyst 👩🏾‍💻 on a mission to unravel the mysteries concealed within data. Let's emark on an exciting journey together, exploring the boundless possibilities that data brings! 🚀💡
+I'm Anmolvir, a passionate Data Analyst 👩🏾‍💻 I absolutely love digging into data to uncover its hidden stories. Join me on this awesome adventure as we explore all the cool things data has to offer! 🚀💡
 
 ## 🙋🏾‍♀️ About Me
 - 🔍 Passionate about deciphering complex data and sharing its story with the world 🌎.
