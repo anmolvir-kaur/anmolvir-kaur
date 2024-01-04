@@ -2,10 +2,10 @@
 I'm Anmolvir, a passionate Data Analyst 👩🏾‍💻 I absolutely love digging into data to uncover its hidden stories. Join me on this awesome adventure as we explore all the cool things data has to offer! 🚀💡
 
 ## 🙋🏾‍♀️ About Me
-- 🔍 Passionate about deciphering complex data and sharing its story with the world 🌎.
-- 👩🏾‍💻 Actively delving into SQL and Data Visualization, eagerly seeking roles in Data Analytics.
-- 📉 Proficient in Data Cleaning and Wrangling, Data Visualization, Analysis, and Dashboard Design and Development.
-- 💡 Skilled in adapting to dynamic work environments and collaborating effectively within cross-functional teams to drive impactful data-driven solutions.
+- 🌎 I love figuring out tricky data and telling its story to everyone! 
+- 👩🏾‍💻 I'm into SQL and making data visual so I'm looking for jobs in Data Analytics. 
+- 📉 Good at cleaning up data, making cool visuals, and analyzing trends.
+- 💡 I'm flexible and work well with different teams to come up with smart data solutionss.
 
 ## 💻 Language & Skills
 - **SQL** (SQL Server, MySQL, PostgreSQL, Google BigQuery)
