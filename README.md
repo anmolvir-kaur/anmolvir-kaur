@@ -9,7 +9,6 @@ I'm Anmolvir, and I absolutely love digging into data to uncover its hidden stor
 
 ## 💻 Language & Skills
 - **SQL** (SQL Server, MySQL, PostgreSQL, Google BigQuery)
-- **R Programming**
 - **Tableau**
 - **Excel** (VLookup, Conditional Formatting, Pivot Tables)
 
