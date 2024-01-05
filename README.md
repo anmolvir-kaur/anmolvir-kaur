@@ -13,7 +13,8 @@ I'm Anmolvir, and I absolutely love digging into data to uncover its hidden stor
 - **Excel** (VLookup, Conditional Formatting, Pivot Tables)
 
 ## 🚀 Projects
-
+[project 1](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md)
+[project 2]
 ## 🤝 Connect with Me
 
 
