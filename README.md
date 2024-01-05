@@ -13,7 +13,7 @@ I'm Anmolvir, and I absolutely love digging into data to uncover its hidden stor
 - **Excel** (VLookup, Conditional Formatting, Pivot Tables)
 
 ## 🚀 Projects
-- [project 1](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md)
+- [HR Survey Analysis for the Seattle Department of Public Works](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md) Analyzing Job Satisfaction in Public Works: Using Excel for data exploration and visualization, this project interprets responses from a survey of ~1,500 Seattle public works employees, offering actionable insights to improve employee engagement.
 - [project 2](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/README.md)
 - [project 3](https://github.com/anmolvir-kaur/TasteoftheWorldCafeMenuAnalysis/blob/main/README.md)
 ## 🤝 Connect with Me
