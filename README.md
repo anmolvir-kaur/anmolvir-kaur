@@ -15,7 +15,7 @@ I'm Anmolvir, and I absolutely love digging into data to uncover its hidden stor
 ## 🚀 Projects
 - [project 1](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md)
 - [project 2](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/README.md)
-- [project 3](
+- [project 3](https://github.com/anmolvir-kaur/TasteoftheWorldCafeMenuAnalysis/blob/main/README.md)
 ## 🤝 Connect with Me
 
 
