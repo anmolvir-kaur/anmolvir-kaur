@@ -18,6 +18,9 @@ I'm Anmolvir, and I absolutely love digging into data to uncover its hidden stor
 - [HR Survey Analysis for the Seattle Department of Public Works](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md) Analyzing Job Satisfaction in Public Works: Using Excel for data exploration and visualization, this project interprets responses from a survey of ~1,500 Seattle public works employees, offering actionable insights to improve employee engagement. **Top five techniques used in this project: Conditional Formatting, Pivot Tables, VLOOKUP, Data Validation, & Visualizations**   
   
 ## 🤝 Connect with Me
+- [LinkedIn](www.linkedin.com/in/anmolvirkaur)
+
+- [Feel free to send me an email](anmolvkaur@gmail.com)
 
 
 
