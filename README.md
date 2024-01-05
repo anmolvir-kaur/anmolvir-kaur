@@ -9,13 +9,14 @@ I'm Anmolvir, and I absolutely love digging into data to uncover its hidden stor
 
 ## 💻 Language & Skills
 - **SQL** (SQL Server, MySQL, PostgreSQL, Google BigQuery)
-- **Tableau**
 - **Excel** (VLookup, Conditional Formatting, Pivot Tables)
+- **Tableau**
 
 ## 🚀 Projects
-- [HR Survey Analysis for the Seattle Department of Public Works](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md) Analyzing Job Satisfaction in Public Works: Using Excel for data exploration and visualization, this project interprets responses from a survey of ~1,500 Seattle public works employees, offering actionable insights to improve employee engagement.
 - [Understanding Vehicle Thefts in New Zealand](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/README.md) Enhancing Community Safety: Using SQL and Excel, this project uncovers patterns in New Zealand vehicle thefts, identifying peak times, analyzing targeted vehicles, and offering regional insights to optimize law enforcement efforts.
-- [project 3](https://github.com/anmolvir-kaur/TasteoftheWorldCafeMenuAnalysis/blob/main/README.md)
+- [User Menu Mastery: Enhancing Taste, Boosting Revenue](https://github.com/anmolvir-kaur/TasteoftheWorldCafeMenuAnalysis/blob/main/README.md) Revamping Taste of the World Cafe: With SQL, this project refines the menu, improves operations, and increases revenue by analyzing customer preferences, order timings, and high-spending patterns.
+- [HR Survey Analysis for the Seattle Department of Public Works](https://github.com/anmolvir-kaur/HRSurveyAnalysis/blob/main/README.md) Analyzing Job Satisfaction in Public Works: Using Excel for data exploration and visualization, this project interprets responses from a survey of ~1,500 Seattle public works employees, offering actionable insights to improve employee engagement.
+  
 ## 🤝 Connect with Me
 
 
